@@ -8,9 +8,8 @@ var path = require('path');
 var friends = require('./app/data/friends.js');
 // =============================================================
 var app = express();
-var PORT = process.env.PORT || 4556; // Sets an initial port.
+var PORT = process.env.PORT || 4558; // Sets an initial port.
 
-//makes static assets in the public folder available (style.css)
 app.use(express.static('app/public'));
 
 // Sets up the Express app to handle data parsing

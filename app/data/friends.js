@@ -1,59 +1,43 @@
 var friends = [ {
     "name" : "Josh",
-    "photo" : "http://www.mens-hairstylists.com/wp-content/uploads/2015/10/stylish-haircuts-for-men.jpg",
+    "photo" : "https://images.pexels.com/photos/462680/pexels-photo-462680.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
     "name" : "Sherri",
-    "photo" : "http://science-all.com/images/wallpapers/girl-pictures/girl-pictures-23.jpg",
+    "photo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH6255VDevfkd2ApdzSBFhEEAYPTuse8x_Pppv6brkOAYqYVw5",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
-    "name" : "Kirill",
-    "photo" : "http://images.zap2it.com/assets/p9257057_n160758_cc_v4_aa/guys-with-kids.jpg",
+    "name" : "Bob",
+    "photo" : "https://pbs.twimg.com/profile_images/606173314290053120/RvyQ4b7b_400x400.jpg",
     "scores" : [5,5,5,5,5,5,5,5,5,5]
 }, {
-    "name" : "Amy",
-    "photo" : "http://www.tenerewilliams.com/wp-content/uploads/2013/02/Naomi-Grossman-headshot.jpg",
+    "name" : "Barbara",
+    "photo" : "https://ak8.picdn.net/shutterstock/videos/2687048/thumb/1.jpg",
     "scores" : [5,2,4,3,3,2,1,3,3,4]
 }, {
-    "name" : "Gavin",
-    "photo" : "https://s-media-cache-ak0.pinimg.com/236x/e6/58/db/e658dbeb3518edeab6a19516b8146137.jpg",
+    "name" : "Gus",
+    "photo" : "https://ak6.picdn.net/shutterstock/videos/9993956/thumb/1.jpg",
     "scores" : [4,1,5,3,4,5,2,3,4,5]
 }, {
-    "name" : "Kayla",
-    "photo" : "http://cdn3.thr.com/sites/default/files/2013/02/emma_roberts.jpg",
+    "name" : "Karin",
+    "photo" : "https://us.123rf.com/450wm/mimagephotography/mimagephotography1411/mimagephotography141100169/33727922-close-up-portrait-of-a-happy-young-black-woman-smiling.jpg?ver=6",
     "scores" : [4,1,5,3,4,5,2,3,4,5]
 }, {
-    "name" : "PJ",
-    "photo" : "https://s-media-cache-ak0.pinimg.com/564x/02/72/d2/0272d2536de31958c6dcb3bb1b447586.jpg",
+    "name" : "Earl",
+    "photo" : "https://pbs.twimg.com/profile_images/82747417/gary_headshot_smaller.jpg",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
-    "name" : "Janie",
-    "photo" : "http://kelseyedwardsphoto.com/images/gallery/Sports/74_088_FAVS_MAY_0511.jpg",
+    "name" : "Jasmin",
+    "photo" : "https://image1.masterfile.com/getImage/ODMzLTA3NDM1NDUyZW4uMDAwMDAwMDA=AIu4m5/833-07435452en_Masterfile.jpg",
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
     "name" : "Andre",
-    "photo" : "http://1.bp.blogspot.com/-6uw9bbJmPs4/VpISNZB5wOI/AAAAAAAAAag/PAQeixYQ4g8/s1600/Varun%2BDhawan%2BLatest%2BPic.jpg",
+    "photo" : "https://media.istockphoto.com/photos/confidence-and-style-picture-id627676934?k=6&m=627676934&s=612x612&w=0&h=Ft-qc_Lc_E-0WIPC4QXoSCqHdqjG1JtI_wGD4_f9ReE=",
     "scores" : [1,5,1,3,5,1,4,3,2,1]
 }, {
     "name" : "Krissy",
-    "photo" : "http://1.bp.blogspot.com/-FMhfNM7lFG4/Ud8XSJsqgLI/AAAAAAAAAIs/uyMyWoJUEk0/s1600/women-medium-wavy-hairstyles.jpg",
+    "photo" : "https://ak9.picdn.net/shutterstock/videos/1285789/thumb/1.jpg",
     "scores" : [1,3,3,1,2,4,4,1,3,1]
-}, {
-    "name" : "Zob",
-    "photo" : "http://d236bkdxj385sg.cloudfront.net/wp-content/uploads/2012/02/brian-white.jpg",
-    "scores" : [5,2,4,3,3,2,1,3,3,4]
-}, {
-    "name" : "Danielle",
-    "photo" : "http://benhairstyle.com/wp-content/uploads/2014/10/beautiful_hairstyles_for_young_women.jpg",
-    "scores" : [1,1,1,1,1,1,1,1,1,1]
-}, {
-    "name" : "Charu",
-    "photo" : "https://s-media-cache-ak0.pinimg.com/736x/09/0f/e7/090fe7f53967e0a0da51f12fa147e01d.jpg",
-    "scores" : [2,3,5,5,3,5,2,1,3,2]
-}, {
-    "name" : "Omar",
-    "photo" : "http://harvardsol.com/wp-content/uploads/2016/07/impressive-new-haircuts-for-young-men-all-inspirational-article.jpg",
-    "scores" : [2,3,5,5,3,5,2,1,3,2]
 }];
 
 module.exports = friends;
