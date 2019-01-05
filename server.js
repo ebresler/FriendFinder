@@ -1,3 +1,5 @@
+module.paths.push('/usr/local/lib/node_modules')
+
 var express = require('express');
 var bodyParser = require('body-parser');
 var path = require('path');
