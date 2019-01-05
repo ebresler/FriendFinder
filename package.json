@@ -4,7 +4,9 @@
      "description": "Helps you find friends in your area",
      "main": "server.js",
      "dependencies": {
-        "express": "^4.16.3"
+        "express": "^4.16.3",
+        "path":"",
+        "body-parser":""
 
      },
      "scripts": {
