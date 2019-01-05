@@ -1,19 +1,17 @@
-//Include the path package to get the correct file path
 var path = require('path');
-//***********************
-// Routing
-//***********************
+
 module.exports = function(app) {
-// // Basic route that sends the userto the home page
+  // Route that sends the user to the homepage
   app.get('/', function (req, res) {
       res.sendFile(path.join(__dirname, '/../public/index.html'));
   });
-  //route to display the survey page - survery.html)
+
+  // Route that sends user to survey page
   app.get('/survey', function (req, res) {
       res.sendFile(path.join(__dirname, '/../public/survey.html'));
   });
 
-  // If no matching route is found default to home
+  // Default route to homepage
   app.get("*", function(req, res) {
     res.sendFile(path.join(__dirname, "../public/index.html"));
   });
